@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
  
 - 👋 Hi, I’m @ramsrinivassai
 - 👀 I’m interested in B2B SaaS Product management, Machine Learning Models, Data Science, CRMs, Fintech Products, Low-code / no-code development
